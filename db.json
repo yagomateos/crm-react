@@ -38,12 +38,11 @@
       "notas": "El Cliente desea un ecommerce",
       "id": 6
     },
-    {
-      "nombre": "Ana Cecilia",
-      "empresa": "Virgin",
-      "email": "anacecilia@hotmail.com",
-      "telefono": "6453525244",
-      "notas": "Clienta muy contenta y cita de retoque para 03/02/2023",
+          "nombre": "Ana",
+      "empresa": "none",
+      "email": "yagomateos@hotmail.com",
+      "telefono": "631379408",
+      "notas": "sadasdas",
       "id": 7
     }
   ]
