@@ -38,7 +38,8 @@
       "notas": "El Cliente desea un ecommerce",
       "id": 6
     },
-          "nombre": "Ana",
+    {
+      "nombre": "Ana",
       "empresa": "none",
       "email": "yagomateos@hotmail.com",
       "telefono": "631379408",
